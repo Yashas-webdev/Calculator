@@ -1,3 +1,3 @@
 # Calculator
-Author:Yashas A R<br>
+Author: Yashas A R
 simple calculator
